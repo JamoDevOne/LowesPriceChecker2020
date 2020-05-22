@@ -13,5 +13,7 @@ User scripts have to be enabled in your browser. Then install the extension Tamp
 Then the script:
 
   Price Checking Script. [Click to Install](https://github.com/JamoDevOne/LowesPriceChecker2020/raw/master/PriceChecker2020.user.js)
+  
+## Instructions
 
 
