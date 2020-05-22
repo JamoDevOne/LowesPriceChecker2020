@@ -1,6 +1,8 @@
 # LowesPriceChecker-2020
 
-Updated version of a Lowes price checker tool. If this update helped you or find it useful, please consider donating to me. The donate button is in the tool.
+Updated version of a Lowes price checker tool. 
+
+If this update helped you or find it useful, please consider donating. The donate button is in the tool. 
 
 ## Installation
 
