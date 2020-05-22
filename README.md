@@ -2,7 +2,7 @@
 Updated version of a Lowes price checker.
 
 
-# Installation
+## Installation
 
 User scripts have to be enabled in your browser. Then install the extension Tampermonkey.
 
@@ -12,6 +12,6 @@ User scripts have to be enabled in your browser. Then install the extension Tamp
 
 Then the script:
 
-  Price Checking Script. [Click to Install](hhttps://github.com/JamoDevOne/LowesPriceChecker-2020/raw/master/Price-Checker-2020.js)
+  Price Checking Script. [Click to Install](https://github.com/JamoDevOne/LowesPriceChecker-2020/raw/master/Price-Checker-2020.js)
 
 
