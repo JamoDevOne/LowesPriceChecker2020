@@ -5,12 +5,12 @@ Installation
 
 User scripts have to be enabled in your browser. Then install the extension Tampermonkey.
 
-  For Chrome: [Tampermonkey](https://www.tampermonkey.net/?ext=dhdg&browser=chrome)
+  For Chrome:   [Tampermonkey](https://www.tampermonkey.net/?ext=dhdg&browser=chrome)
 
-  For Firefox: [Tampermonkey](https://www.tampermonkey.net/?ext=dhdg&browser=firefox)
+  For Firefox:  [Tampermonkey](https://www.tampermonkey.net/?ext=dhdg&browser=firefox)
 
 Then the script:
 
-  Price Checking Script.
+  Price Checking Script. [Click to Install](Price-Checker-2020.js)
 
 
