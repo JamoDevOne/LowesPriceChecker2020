@@ -18,7 +18,7 @@ Then the script:
   
 ## Instructions
 
-1. Open the Tampermonkey extension in your browser and select the price check script.
+1. Go to the Lowe's website and choose the product you want to compare prices with, then open the Tampermonkey extension in your browser and select the price check script.
 
     ![](instructions/step1.png)
     
