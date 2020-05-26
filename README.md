@@ -28,7 +28,7 @@ Then the script:
   
 3. Then go to the options tab and choose the configuration you want.
 
-  ![](instructions/step2.png)
+  ![](instructions/step3.png)
 
 4. Switch over to the prices tabs and click search. The prices will show up in a moment.
 
