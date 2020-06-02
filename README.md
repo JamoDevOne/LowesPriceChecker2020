@@ -22,7 +22,7 @@ Then the script:
 
     ![](instructions/step1.png)
     
-2. A dialog of the tool will open. Then click on the stores tabs and select all.
+2. A dialog of the tool will open. Then click on the stores tabs and click on ADD ALL.
   
   ![](instructions/step2.png)
   
